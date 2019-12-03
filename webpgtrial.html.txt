@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>WEB PAGE</h1>
+<h2>HTML Image</h2>
+<img src="C:\Users\Sasidurka\Desktop\Puppy.jpg" alt="Puppy" width="500" height="333">
+
+<p>ASSIGNMENT 3</p>
+
+</body>
+</html>
